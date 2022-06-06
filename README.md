@@ -6,4 +6,4 @@ disponibile intr-o lista. Se pot efectua operatii de tip CRUD pe aceasta lista d
 Se poate face undo si redo la operatiile CRUD, se pot selecta produse pentru a fi adugate intr-un cos. In cos se poate genera un
 numar dat de produse. Produsele din cos pot fi exportate intr-un fisier dat de utilizator. Cosul poate fi vizualizat 
 si in forma de "read-only" (sunt generate, intr-o noua fereastra, atatea patrate cate produse exista in cos la un 
-moment dat pentru a ilustra ideea de observer).
+moment dat pentru a ilustra ideea de observer). Functionalitatile sunt testate manual.
