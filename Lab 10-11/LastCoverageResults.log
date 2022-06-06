@@ -1,0 +1,22 @@
+[2021-05-24 07:26:45] [info] Start Program:
+Path:"C:\\Users\\Bogdana Moldovan\\source\\repos\\Programare orientata obiect\\Lab 10-11\\x64\\Debug\\Lab 10-11.exe"
+Arguments:
+Working directory: "C:\\Users\\Bogdana Moldovan\\source\\repos\\Programare orientata obiect\\Lab 10-11\\Lab 10-11\\"
+Modules: Selected: C:\Users\Bogdana Moldovan\source\repos\Programare orientata obiect\Lab 10-11\x64\Debug\Lab 10-11.exe Excluded: 
+Sources: Selected: C:\Users\Bogdana Moldovan\source\repos\Programare orientata obiect\Lab 10-11\Lab 10-11 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Bogdana Moldovan\AppData\Local\Temp\0ydufzzr.aep 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-05-24 07:26:45] [info] Module: C:\Users\Bogdana Moldovan\source\repos\Programare orientata obiect\Lab 10-11\x64\Debug\Lab 10-11.exe is selected because it matches selected pattern: C:\Users\Bogdana Moldovan\source\repos\Programare orientata obiect\Lab 10-11\x64\Debug\Lab 10-11.exe
+[2021-05-24 07:27:48] [info] ----------------------------------------------------
+[2021-05-24 07:27:48] [info] Coverage binary generated in file: C:\Users\Bogdana Moldovan\AppData\Local\Temp\0ydufzzr.aep
+[2021-05-24 07:27:48] [info] ----------------------------------------------------
+[2021-05-24 07:27:48] [error] Your program stop with error code: 1

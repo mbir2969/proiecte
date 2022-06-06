@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Magazin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="domeniu.cpp">
+      <Filter>Domeniu</Filter>
+    </ClCompile>
+    <ClCompile Include="validare.cpp">
+      <Filter>Validare</Filter>
+    </ClCompile>
+    <ClCompile Include="repo.cpp">
+      <Filter>Persistenta</Filter>
+    </ClCompile>
+    <ClCompile Include="service.cpp">
+      <Filter>Business</Filter>
+    </ClCompile>
+    <ClCompile Include="sortare.cpp">
+      <Filter>Business</Filter>
+    </ClCompile>
+    <ClCompile Include="cos.cpp">
+      <Filter>Cos Cumparaturi</Filter>
+    </ClCompile>
+    <ClCompile Include="consola.cpp">
+      <Filter>Prezentare</Filter>
+    </ClCompile>
+    <ClCompile Include="teste.cpp">
+      <Filter>Teste</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI.cpp">
+      <Filter>Prezentare</Filter>
+    </ClCompile>
+    <ClCompile Include="observer.cpp">
+      <Filter>Business</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelView.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Domeniu">
+      <UniqueIdentifier>{461c7f89-9457-4173-94fa-273ba04d569b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Persistenta">
+      <UniqueIdentifier>{865750fc-dbda-4b0a-96d9-0641a1025049}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Business">
+      <UniqueIdentifier>{06669da9-5406-4b2f-901b-0db5381422f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Validare">
+      <UniqueIdentifier>{12e6d586-2211-4761-aa0c-5eeb4fc973a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Prezentare">
+      <UniqueIdentifier>{7fc634ec-44f0-45a8-97ca-75e77727cfd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{83dca618-f98f-4e2c-94db-1dbf5ea31038}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cos Cumparaturi">
+      <UniqueIdentifier>{a0666eb3-1e3d-47bd-b648-558bc27d2edd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Teste">
+      <UniqueIdentifier>{92594b9f-17ea-44f5-a4aa-66eeb55c31eb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="Magazin.h">
+      <Filter>Source Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="Magazin.qrc">
+      <Filter>Source Files</Filter>
+    </QtRcc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="Magazin.ui">
+      <Filter>Source Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="domeniu.h">
+      <Filter>Domeniu</Filter>
+    </ClInclude>
+    <ClInclude Include="validare.h">
+      <Filter>Validare</Filter>
+    </ClInclude>
+    <ClInclude Include="repo.h">
+      <Filter>Persistenta</Filter>
+    </ClInclude>
+    <ClInclude Include="service.h">
+      <Filter>Business</Filter>
+    </ClInclude>
+    <ClInclude Include="sortare.h">
+      <Filter>Business</Filter>
+    </ClInclude>
+    <ClInclude Include="undo.h">
+      <Filter>Business</Filter>
+    </ClInclude>
+    <ClInclude Include="cos.h">
+      <Filter>Cos Cumparaturi</Filter>
+    </ClInclude>
+    <ClInclude Include="consola.h">
+      <Filter>Prezentare</Filter>
+    </ClInclude>
+    <ClInclude Include="teste.h">
+      <Filter>Teste</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI.h">
+      <Filter>Prezentare</Filter>
+    </ClInclude>
+    <ClInclude Include="observer.h">
+      <Filter>Business</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelView.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="test_produse.txt">
+      <Filter>Teste</Filter>
+    </Text>
+    <Text Include="produse.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
