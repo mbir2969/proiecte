@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ClientCSharp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Concurs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Concurs/concurs-client-web/src" vcs="Git" />
+  </component>
+</project>
