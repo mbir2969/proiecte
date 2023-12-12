@@ -1,21 +1,18 @@
-# proiecte
+# projects
 
-Cerinta initiala a proiectului:
+Project's initial requirements:
 
-Organizatorii unui concurs de atletism pentru copii folosesc un sistem soft pentru înregistrarea participanților.
-La diferite oficii din oraș se folosește sistemul. Persoana de la fiecare oficiu folosește o aplicație desktop cu
-următoarele funcționalități:
-1. Login. După autentificarea cu succes, o nouă fereastră se deschide în care sunt afișate grupele de vârstă (6-8
-   ani, 9-11 ani, 12-15 ani) și probe (50m, 100m, 1000m și 1500m) la care se poate înscrie un copil. Pentru o
-   anumită grupă de vârstă pot să fie disponibile doar o parte dintre probe (de exemplu, pentru grupa 6-8 ani un
-   copil poate participa doar la probele de 50m si 100m).
-2. Căutare. După autentificarea cu succes, persoana de la oficiu poate căuta copiii care s-au înscris deja la o
-   anumită probă și o anumită grupă de vârstă. Aplicație afișează în altă listă/alt tabel toți copiii (numele
-   copilului, vârsta și numărul de probe la care s-a înscris).
-3. Înscriere. Un copil se poate înscrie la cel mult două probe. La înregistrare persoana de la oficiu introduce
-   numele copilului, vârsta și probele la care vrea să participe. După o înscriere, toate persoanele de la celelalte
-   oficii văd lista actualizată a probelor si numărul de copii care s-au înscris la fiecare probă.
-4. Logout.
+The organizers of a children's athletics competition use a software system for participant registration. The system is used at various offices throughout the city. Each office personnel uses a desktop application with the following functionalities:
+
+1. **Login:** After successful authentication, a new window opens displaying age groups (6-8 years, 9-11 years, 12-15 years) and events (50m, 100m, 1000m, and 1500m) where a child can enroll. Only a subset of events may be available for a specific age group (for example, children aged 6-8 can only participate in the 50m and 100m events).
+
+2. **Search:** After successful authentication, office personnel can search for children who have already registered for a specific event and age group. The application displays in another list/table all children (child's name, age, and the number of events they have enrolled in).
+
+3. **Enrollment:** A child can enroll in a maximum of two events. During registration, office personnel enter the child's name, age, and the events they want to participate in. After enrollment, all personnel from other offices see the updated list of events and the number of children enrolled in each event.
+
+4. **Logout:** Allows the user to log out.
+
+The project has a graphical interface, logging, client-server implementation, and includes REST services and a small web client. The REST services work with both the test client in the ServiciuRest/client folder, written in Java, and the test client in the ClientCsharp folder, written in C#.
 
 Proiectul are interfata grafica, jurnalizare, implementare pentru partea de client-server. De asemenea, 
 contine servicii rest si un mic client web. Seviciile rest functioneaza atat cu clientul de test din folderul 
