@@ -1,1 +1,1 @@
-Repository-ul contine doua proiecte C#, un proiect C++, un proiect Java si doua proiecte de IoT (la unul dintre ele s-a folosit Python)
+This repository contains 2 C# projects, a C++ project, a Java project and 2 IoT project from which one uses Python
